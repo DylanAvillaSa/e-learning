@@ -1,0 +1,21 @@
+task :
+
+
+https://www.youtube.com/watch?v=xDRaaAKnq4o
+
+
+https://www.figma.com/design/gjpEJ2bMTLDhgI8vd54hqk/Brainly-Reborn---Website-Learning-Community-UI-Kit-(Community)?node-id=0-1&node-type=canvas&t=BwyIlvoWuUXlCaj7-0
+ 
+ Aplikasi Media Sosial dengan Fitur Interaktif
+Deskripsi: Buat aplikasi media sosial yang memungkinkan pengguna untuk membuat postingan, berkomentar, menyukai, dan mengikuti pengguna lain, serta melakukan streaming langsung.
+
+design : https://www.figma.com/design/EI7N9ZW3exYZ2mnEtoAzdD/Social-App---Free-UI-Kit-%F0%9F%93%B1-(Community)?node-id=1-73&node-type=FRAME&t=nxshE8v5sQh7SXip-0
+
+
+Fitur Utama:
+Sistem autentikasi pengguna dengan OAuth (misalnya, Google, Facebook).
+News feed dinamis dengan update real-time.
+Fitur streaming langsung dan obrolan menggunakan WebRTC atau Socket.io.
+Sistem perpesanan pribadi dan grup.
+Pemberitahuan push menggunakan Firebase Cloud Messaging.
+Teknologi: React, Redux, Tailwind CSS, Node.js/Express, MongoDB, WebRTC, Firebase (untuk otentikasi dan pemberitahuan).
